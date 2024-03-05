@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# Fitness Page
 
 This project was created to understand TypeScript beter and to learn how to use Tailwind CSS.
 It is a simple application that displayes basic information of a gym.
